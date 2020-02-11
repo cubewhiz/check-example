@@ -1,7 +1,7 @@
 check50:
   checks:
-    Hello Margaret:
+    Hello Bob:
       - run python3 hello.py
-        stdin: Margaret
-        stdout: Hello Margaret
+        stdin: Bob
+        stdout: Hello Bob
         exit: 0
